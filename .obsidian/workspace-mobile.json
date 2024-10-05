@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "798660d7ca39580a",
+    "type": "split",
+    "children": [
+      {
+        "id": "35036f1afbe52b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc0130e2d438bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c7826cf8edfb0f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe8f812e4f66e677",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4a882f005b53a83b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb25340e1589221e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8175bc7fcd1cfb29",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "64a7910bdc4950ab",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3b8c5c135e99ad8f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74544934efe6fb82",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c7a3b13133cc768f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "43f965882bab7858",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "whisper:Open recording controls": false
+    }
+  },
+  "active": "2dc0130e2d438bcc",
+  "lastOpenFiles": [
+    "test.md",
+    "Разное/x86-64 альтернатива Raspberry Pi.md"
+  ]
+}

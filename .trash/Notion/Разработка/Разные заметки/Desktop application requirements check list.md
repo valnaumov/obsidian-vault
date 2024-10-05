@@ -1,0 +1,1 @@
+Do you need an auto-update feature? An application can check the server for an update and prompt the user to download it and restart the app. I recommend you to add it since there are going to be minor bugs and new features.

@@ -1,0 +1,1 @@
+[https://www.dropbox.com/s/0oice3xtstgkrtm/akaliaev_resume.pdf?dl=0](https://www.dropbox.com/s/0oice3xtstgkrtm/akaliaev_resume.pdf?dl=0)

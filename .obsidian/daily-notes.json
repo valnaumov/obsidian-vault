@@ -1,0 +1,5 @@
+{
+  "folder": "Дневник",
+  "format": "YYYY/YYYY-MM-DD",
+  "template": "Templates/{date} Шаблон дневника"
+}

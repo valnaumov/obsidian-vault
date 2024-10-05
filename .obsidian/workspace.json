@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d809c4f0c621fbe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f78216df2143ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5fa50e38e52efb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Шаблон дневника.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d827d4b964ee98b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d079fb9a6354d955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b0f849a91b9f0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "3ee2d1aca5df8b30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4037b5643a797d01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51f30745b7fb0aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c598a6b01a98a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f627b2843f935e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Шаблон дневника.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45b34fb6596f44e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Шаблон дневника.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d00ed4369b90cd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13f1fcf7e5bd182c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Шаблон дневника.md"
+              }
+            }
+          },
+          {
+            "id": "74d15258ef230d9a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5a672dd01b015582",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/Шаблон дневника.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "5a672dd01b015582",
+  "lastOpenFiles": [
+    "Дневник/2024/2024-10-05.md",
+    "Templates/Шаблон дневника.md",
+    "Notion/Разработка/Разные заметки/Изучение Kotlin.md",
+    "Notion/Разработка/Разные заметки/Разные заметки.md",
+    "Notion/Разработка/Разработка.md",
+    "Разработка/IntelliQ/Issues/214 - javafx forms.md",
+    "Разработка/Untitled",
+    "Разработка",
+    "Notion/Journal/Daily Entry.md",
+    "Templates",
+    "Notion/Journal/Daily reflection.md",
+    "Дневник/2024/10/2024-10-05.md",
+    "Дневник/2024-10-05.md",
+    "Дневник/2024/10",
+    "Дневник/2024",
+    "Notion/Attachments/Untitled 1.png",
+    "Дневник",
+    "Notion/Attachments/me_by_nastya_сropped.jpg",
+    "test.md",
+    "Notion/Attachments/Untitled 37.png",
+    "Notion/Дневник/03.12.2022/03.12.2022.md",
+    "Notion/Attachments",
+    "Notion/12НГ 2024 Q3 - Спринт/Проект- Найти новую фултайм работу.md",
+    "Inbox",
+    "Notion/12НГ 2024 Q3 - Спринт/Проект- Сделать продаваемую версию приложения для русификации.md",
+    "Notion/12НГ 2024 Q3 - Спринт/Онлайн-практика с Рустамом. 17 июля.md",
+    "Notion/12НГ 2024 Q3 - Спринт/Проект- Получить права категории А.md",
+    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/Москва, Белград. Апрель 2021/Греция 2020/Bookings/Bookings cancel times/Bedbox Hostel.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/Москва, Белград. Апрель 2021/Греция 2020/Bookings/Bookings cancel times/Pegasus Rooms.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/Москва, Белград. Апрель 2021/Греция 2020/Bookings/Bookings cancel times/The Holy Rock - Hostel at meteora.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/Москва, Белград. Апрель 2021/Греция 2020/Bookings/Bookings cancel times/Zeus is Loose Hostel.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/Москва, Белград. Апрель 2021/Греция 2020/Bookings/Bookings cancel times/Selina Athens Theatrou.md",
+    "Notion/Бизнес/Бизнес (старая страница)/Перепрошивка Sony на русский язык (русификация)/Сайт/Тексты для лэндинга и  Youtube.md",
+    "Notion/Кино/Проекты и идеи для кино/Авито-кино/База данных героев и работа с ней/Список героев (Автоматический парсинг)/Давид.md",
+    "Notion/Кино/Проекты и идеи для кино/Авито-кино/База данных героев и работа с ней/Список героев (Автоматический парсинг)/AsicBox.md",
+    "Notion/Кино/Проекты и идеи для кино/Авито-кино/База данных героев и работа с ней/Список героев (Автоматический парсинг)/Alex AX.md",
+    "Notion/Attachments/Untitled 36.png",
+    "Notion/Attachments/Untitled 35.png",
+    "Notion/Attachments/Untitled 5 3.png",
+    "Notion/Attachments/Screenshot_from_2023-04-30_01-32-14.png",
+    "Notion/Attachments/Screenshot_from_2023-04-30_01-35-21.png",
+    "Notion/Attachments/Untitled 4 4.png",
+    "Notion/Attachments/Untitled 3 11.png",
+    "Notion/Attachments/Гаид_по_переезду_в_Турцию.pdf",
+    "Notion/Attachments/Порядок_ПВТ.pdf",
+    "Files/Untitled.canvas"
+  ]
+}
