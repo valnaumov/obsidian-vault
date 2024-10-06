@@ -135,19 +135,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "whisper:Open recording controls": false
     }
   },
   "active": "2dc0130e2d438bcc",
   "lastOpenFiles": [
+    "Продуктивность, GTD и т.д/Впечатления от Obsidian.md",
+    "Продуктивность, GTD и т.д/attachments/3c0.jpg",
+    "Продуктивность, GTD и т.д/attachments",
+    "Продуктивность, GTD и т.д/А не есть ли я informational hoarder.md",
+    "Продуктивность, GTD и т.д/Untitled.md",
+    "Кино/Кино и литература - это компиляция мыслей.md",
+    "Кино",
+    "Продуктивность, GTD и т.д/Как использовать AI в Obsidian.md",
+    "Продуктивность, GTD и т.д/Что я возьму от Цеттельскастен.md",
+    "Продуктивность, GTD и т.д",
     "test.md",
     "Разное/x86-64 альтернатива Raspberry Pi.md"
   ]
