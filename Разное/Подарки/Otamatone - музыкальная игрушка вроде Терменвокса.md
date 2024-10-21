@@ -1,0 +1,2 @@
+![](https://www.youtube.com/watch?v=Y_ILdh1K0Fk)
+https://www.avito.ru/sankt-peterburg/muzykalnye_instrumenty/otamaton_otamaton_novye_raznye_yaponskiy_elektronn_3835782508?utm_campaign=native&utm_medium=item_page_android&utm_source=soc_sharing

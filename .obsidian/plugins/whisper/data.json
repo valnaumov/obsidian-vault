@@ -5,8 +5,8 @@
   "prompt": "",
   "language": "ru",
   "saveAudioFile": true,
-  "saveAudioFilePath": "",
+  "saveAudioFilePath": "Inbox\\Голосовые заметки\\Аудиозаписи\\{date}",
   "debugMode": false,
   "createNewFileAfterRecording": true,
-  "createNewFileAfterRecordingPath": ""
+  "createNewFileAfterRecordingPath": "Inbox\\Голосовые заметки\\Транскрипции\\{date}"
 }

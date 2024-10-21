@@ -1,0 +1,3 @@
+- Librechat
+- [[Open WebUI]]
+- [Интеграции](https://github.com/ollama/ollama#web--desktop) на странице ollama на github.

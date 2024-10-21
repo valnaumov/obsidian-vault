@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a222d4a142a690",
+        "id": "9e9af02e1f19afb1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c44833fa010ecd2",
+            "id": "4aa6f0e5dc60ca14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Разное/Покупка квартиры/Покупатели квартиры на Лопатина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Покупатели квартиры на Лопатина"
+            }
+          },
+          {
+            "id": "0dcb44db51178fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "https___web-archive.oecd.org_t - 20241017231956836"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,8 +72,10 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +110,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -92,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +129,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for https___web-archive.oecd.org_t - 20241017231956836"
             }
           },
           {
@@ -108,9 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from https___web-archive.oecd.org_t - 20241017231956836"
             }
           },
           {
@@ -122,7 +157,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -130,7 +167,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of https___web-archive.oecd.org_t - 20241017231956836"
+            }
+          },
+          {
+            "id": "21a68b223092f3d9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -152,54 +203,54 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9c44833fa010ecd2",
+  "active": "0dcb44db51178fb0",
   "lastOpenFiles": [
-    "Notion/Task List/Take Fig on a walk.md",
-    "Notion/Task List/New Task.md",
-    "Notion/Task List/Task List.md",
-    "Notion/Reading List/Media/A Tax That Could Fix Big Tech/A Tax That Could Fix Big Tech.md",
-    "Notion/Психотерапия/Задания по Workbook (Exposure Hierarchy и пр.) НЕ ЗАПОЛНЕНЫ.md",
-    "Разработка/AI/Локальные реализации Whisper.md",
-    "Notion/Reading List/Media/Jane Eyre and the Invention of Self/Jane Eyre and the Invention of Self.md",
-    "Notion/Дневник/Психотерапия Дневник 21.04.2021/Психотерапия Дневник 21.04.2021.md",
-    "Notion/Дневник/Психотерапия Дневник/HADS - Тревога/У меня бывает внезапное чувство паники.md",
-    "Notion/Дневник/Психотерапия Дневник/HADS - Тревога/Я испытываю напряжение, мне не по себе.md",
-    "Notion/Дневник/Психотерапия Дневник/HADS - Депрессия/То, что приносило мне большое удовольствие, и сейчас вызывает у меня такое же чувство.md",
-    "Notion/Дневник/Психотерапия Дневник/HADS - Депрессия/Я могу получить удовольствие от хорошей книги, радио- или телепрограммы.md",
-    "Разработка/AI/proxyapi.ru - российский прокси для OpenAI.md",
-    "Путешествия/Где в России полетать на редких (малых) самолётах.md",
-    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024.md",
-    "Книги/Факультет ненужных вещей - Юрий Домбровский.md",
-    "Книги/Ручка, ножка, огуречик -  Юрий Домбровский.md",
-    "Разработка/AI/Ollama - как докер для LLM.md",
-    "Книги",
-    "Разработка/Идеи для сервисов и приложений/PremierePro extension with local Whisper transcription.md",
-    "Дневник/2024/2024-10-05.md",
-    "Продуктивность, GTD и т.д/Цеттелькастен.md",
-    "Разное/Ремонт пистолета Gletcher TT.md",
-    "Продуктивность, GTD и т.д/Что я возьму от Цеттельскастен.md",
-    "Разработка/Идеи для сервисов и приложений",
-    "Психотерапия/Мои психологические проблемы.md",
-    "Разработка/AI",
-    "Продуктивность, GTD и т.д/AI-плагины для Obsidian.md",
-    "Продуктивность, GTD и т.д/obsidian-nano-bots.md",
-    "Психотерапия",
-    "Путешествия/Планирование/~syncthing~БАМ - Владивосток. Октябрь 2024.md.tmp",
+    "Разное/Какой телефон купить.md",
+    "Inbox/Telegram/Samsung s23 - 20241018233338893.md",
+    "Разное/Покупка квартиры/Покупка квартиры.md",
+    "Inbox/Telegram/photos/photo_780109839_2 - 20241017141309593.jpg",
+    "Inbox/Telegram/Т739ну черный рав - 20241017201049796.md",
+    "Inbox/Telegram/Xing, Monster, LinkedIn - 20241016200454871.md",
+    "Разное/Покупка квартиры/Покупатели квартиры на Лопатина.md",
+    "Разное/Покупка квартиры/Осмотр квартиры на 5-й Армии 31.md",
+    "Психотерапия/Выводим Ксюшу на чистую воду.md",
+    "Inbox/Telegram/Untitled.md",
+    "Разное/Как проверить гипотезу с помощью лендинга и подменного номера.md",
+    "Разное/Покупка квартиры/Оформить квартиру на маму и получить налоговый вычет.md",
+    "Разное/Новое зарядное устройство.md",
+    "Разное/Посмотреть medium за пейволом - freedium.cfd.md",
+    "Разное/Покупка квартиры",
+    "Notion/Карьера/Источники вакансий/Источники вакансий.md",
+    "Notion/Карьера/Источники вакансий/Интересные компании.md",
+    "Разное/Как восстановить доступ к кодам от TBC банка.md",
+    "Inbox/Telegram/Open webui - 20241017140937334.md",
+    "Inbox/Telegram/Кто-нибудь пробовал использова - 20241017141309918.md",
+    "Inbox/Telegram/Поменяй домен на https___freed - 20241017141017125.md",
+    "Карьера/Как справиться с тревогой перед собеседованием.md",
+    "Разное/Посмотреть Medium за пейволом - freedium.cfd.md",
+    "Inbox/Telegram/Я юзаю WakaTime, есть куча пла - 20241018153832711.md",
+    "Inbox/Telegram/Тревога перед собесом - это но - 20241018231029264.md",
+    "Продуктивность, GTD и т.д/На компьютере текст набирается быстрее в полтора раза, чем на телефоне.md",
+    "Путешествия/Планирование/БАМ. Октябрь 2024. Вещи в дорогу.md",
+    "Карьера",
+    "Разное/Новый подход к бюджету.md",
+    "Inbox/Telegram/voices/voice_780109839_4 - 20241020175104884.oga",
+    "Inbox/Telegram/voices/voice_780109839_3 - 20241020174458594.oga",
+    "Inbox/Telegram/voices",
+    "Inbox/Telegram/photos",
+    "Разное/Подарки",
+    "Inbox/Telegram/voices/voice_780109839_1 - 20241016014024572.oga",
+    "Inbox/Telegram/photos/photo_780109839_0 - 20241016014004056.jpg",
+    "Inbox/Telegram",
+    "Продуктивность, GTD и т.д/Спринг 12НГ q4",
+    "Разработка/AI/attachments/Pasted image 20241007192417.png",
     "Продуктивность, GTD и т.д/attachments/3c0.jpg",
-    "Продуктивность, GTD и т.д/attachments",
     "Продуктивность, GTD и т.д/3c0.jpg",
     "Продуктивность, GTD и т.д/3c0 1.jpg",
     "3c0.jpg",
-    "Продуктивность, GTD и т.д/~syncthing~Что я возьму от Цеттельскастен.sync-conflict-20241005-221634-AQUCD3I.md.tmp",
-    "Кино",
-    "Продуктивность, GTD и т.д/Заметки",
-    "Продуктивность, GTD и т.д",
     "Notion/Attachments/Untitled 1.png",
     "Notion/Attachments/me_by_nastya_сropped.jpg",
     "Notion/Attachments/Untitled 37.png",
-    "Notion/Attachments/Untitled 36.png",
-    "Notion/Attachments/Untitled 35.png",
-    "Notion/Attachments/Untitled 5 3.png",
     "Files/Untitled.canvas"
   ]
 }
