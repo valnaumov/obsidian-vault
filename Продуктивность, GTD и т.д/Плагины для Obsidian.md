@@ -1,0 +1,1 @@
+- DataView. Можно делать [переменные](https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/#inline-fields) и [вычисляемые](https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/#inline-dql) значения наподобие Coda.

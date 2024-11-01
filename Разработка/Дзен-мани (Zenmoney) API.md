@@ -1,0 +1,2 @@
+[Github](https://github.com/zenmoney/ZenPlugins/wiki/ZenMoney-API)
+Основной метод — [diff](https://github.com/zenmoney/ZenPlugins/wiki/ZenMoney-API#diff), который получает изменения с опред. момента и которому отправляем свои изменения. Явно методы для изменения бюджета не определены.

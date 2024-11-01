@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aa6f0e5dc60ca14",
+            "id": "ad639f090a7e3d76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разное/Покупка квартиры/Покупатели квартиры на Лопатина.md",
+                "file": "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/По БАМу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Покупатели квартиры на Лопатина"
+              "title": "По БАМу"
             }
           },
           {
-            "id": "0dcb44db51178fb0",
+            "id": "e627f140ca20861f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md",
+                "file": "Inbox/Telegram/Situation, task, action, resul - 20241101234438943.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "https___web-archive.oecd.org_t - 20241017231956836"
+              "title": "Situation, task, action, resul - 20241101234438943"
+            }
+          },
+          {
+            "id": "6d68bf5ccb10a1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Психотерапия/Низкая самооценка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Низкая самооценка"
             }
           }
         ],
@@ -72,7 +86,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md",
+                "file": "Inbox/Telegram/Situation, task, action, resul - 20241101234438943.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for https___web-archive.oecd.org_t - 20241017231956836"
+              "title": "Backlinks for Situation, task, action, resul - 20241101234438943"
             }
           },
           {
@@ -140,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md",
+                "file": "Inbox/Telegram/Situation, task, action, resul - 20241101234438943.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from https___web-archive.oecd.org_t - 20241017231956836"
+              "title": "Outgoing links from Situation, task, action, resul - 20241101234438943"
             }
           },
           {
@@ -168,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Telegram/https___web-archive.oecd.org_t - 20241017231956836.md"
+                "file": "Разное/Покупка квартиры/Как оформлять документы при покупке квартиры.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of https___web-archive.oecd.org_t - 20241017231956836"
+              "title": "Outline of Как оформлять документы при покупке квартиры"
             }
           },
           {
@@ -185,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,54 +217,54 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0dcb44db51178fb0",
+  "active": "e627f140ca20861f",
   "lastOpenFiles": [
-    "Разное/Какой телефон купить.md",
-    "Inbox/Telegram/Samsung s23 - 20241018233338893.md",
-    "Разное/Покупка квартиры/Покупка квартиры.md",
-    "Inbox/Telegram/photos/photo_780109839_2 - 20241017141309593.jpg",
-    "Inbox/Telegram/Т739ну черный рав - 20241017201049796.md",
-    "Inbox/Telegram/Xing, Monster, LinkedIn - 20241016200454871.md",
+    "Notion/Разное/Идеи для свиданий.md",
+    "Inbox/Telegram/photos/photo_780109839_27 - 20241101235503365.jpg",
+    "Inbox/Telegram/photos/Untitled.md",
+    "Психотерапия/Низкая самооценка.md",
+    "Психотерапия/Мои психологические проблемы.md",
+    "Дневник/2024/2024-11-02 - бедность и застой.md",
+    "Разработка/Идеи для сервисов и приложений/Random Coffee бот в Иркутске.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/По БАМу.md",
+    "Notion/Путешествия/Разные заметки по путешествиям - Разобрать/Москва, Белград. Апрель 2021/COVID-19 и визы/Ограничения по странам/Албания.md",
+    "Notion/Дневник/13.11.2021 Тирана.md",
+    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024/БАМ - Владивосток. Октябрь 2024.md",
+    "Inbox/Telegram/Situation, task, action, resul - 20241101234438943.md",
+    "Inbox/Telegram/https___www.instagram.com_reel - 20241101232104130.md",
+    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024/attachments/Pasted image 20241101124307.png",
+    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024/attachments",
+    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024/Вещи в дорогу.md",
     "Разное/Покупка квартиры/Покупатели квартиры на Лопатина.md",
-    "Разное/Покупка квартиры/Осмотр квартиры на 5-й Армии 31.md",
-    "Психотерапия/Выводим Ксюшу на чистую воду.md",
-    "Inbox/Telegram/Untitled.md",
-    "Разное/Как проверить гипотезу с помощью лендинга и подменного номера.md",
-    "Разное/Покупка квартиры/Оформить квартиру на маму и получить налоговый вычет.md",
-    "Разное/Новое зарядное устройство.md",
-    "Разное/Посмотреть medium за пейволом - freedium.cfd.md",
-    "Разное/Покупка квартиры",
-    "Notion/Карьера/Источники вакансий/Источники вакансий.md",
-    "Notion/Карьера/Источники вакансий/Интересные компании.md",
-    "Разное/Как восстановить доступ к кодам от TBC банка.md",
-    "Inbox/Telegram/Open webui - 20241017140937334.md",
-    "Inbox/Telegram/Кто-нибудь пробовал использова - 20241017141309918.md",
-    "Inbox/Telegram/Поменяй домен на https___freed - 20241017141017125.md",
-    "Карьера/Как справиться с тревогой перед собеседованием.md",
-    "Разное/Посмотреть Medium за пейволом - freedium.cfd.md",
-    "Inbox/Telegram/Я юзаю WakaTime, есть куча пла - 20241018153832711.md",
-    "Inbox/Telegram/Тревога перед собесом - это но - 20241018231029264.md",
-    "Продуктивность, GTD и т.д/На компьютере текст набирается быстрее в полтора раза, чем на телефоне.md",
-    "Путешествия/Планирование/БАМ. Октябрь 2024. Вещи в дорогу.md",
-    "Карьера",
-    "Разное/Новый подход к бюджету.md",
-    "Inbox/Telegram/voices/voice_780109839_4 - 20241020175104884.oga",
-    "Inbox/Telegram/voices/voice_780109839_3 - 20241020174458594.oga",
-    "Inbox/Telegram/voices",
-    "Inbox/Telegram/photos",
-    "Разное/Подарки",
-    "Inbox/Telegram/voices/voice_780109839_1 - 20241016014024572.oga",
+    "Путешествия/Планирование/БАМ - Владивосток. Октябрь 2024",
+    "Inbox/Telegram/https___www.instagram.com_reel - 20241101111958390.md",
+    "Разработка/Дзен-мани (Zenmoney) API.md",
+    "Inbox/Telegram/https___www.instagram.com_reel - 20241031223326529.md",
+    "Разработка/IntelliQ/Issues/Linking with JavaFX forms.md",
+    "Разное/Покупка квартиры/Агенты.md",
+    "Разное/Покупка квартиры/Untitled.md",
+    "Разное/Как лепить пельмени.md",
+    "Inbox/Telegram/https___www.instagram.com_reel - 20241030185349045.md",
+    "Inbox/Telegram/В мотане есть плацкартные ваго - 20241029204338694.md",
+    "Inbox/Telegram/Сегодня на созвоне упомянули   - 20241021163705415.md",
+    "Notion/Дневник/28.12.2023 про Ксюшу и секс.md",
+    "Inbox/Telegram/Активный девайс (с интернетом) - 20241021163224619.md",
+    "Inbox/Telegram/photos/photo_780109839_23 - 20241021163224160.jpg",
+    "Inbox/Telegram/photos/photo_780109839_24 - 20241021163425672.jpg",
+    "Inbox/Telegram/photos/photo_780109839_26 - 20241029172825092.jpg",
+    "Разработка/Русификация Sony/attachments/appveyor 1.yml",
+    "Разработка/Русификация Sony/attachments/appveyor.yml",
+    "Разработка/Русификация Sony/attachments",
+    "Разработка/Русификация Sony",
+    "Разработка/Python",
+    "Разное/Покупка квартиры/~syncthing~Осмотр квартиры Грязнова, 3.md.tmp",
+    "Разработка/~syncthing~1c560580e51d96f7583263c864a31fda41756353b7dabbad19e31d8cea79d766.tmp",
+    "Inbox/Telegram/documents/этапы ремонта - 20241021232056666.png",
+    "Inbox/Telegram/documents",
+    "Inbox/Telegram/photos/photo_780109839_2 - 20241017141309593.jpg",
     "Inbox/Telegram/photos/photo_780109839_0 - 20241016014004056.jpg",
-    "Inbox/Telegram",
-    "Продуктивность, GTD и т.д/Спринг 12НГ q4",
     "Разработка/AI/attachments/Pasted image 20241007192417.png",
     "Продуктивность, GTD и т.д/attachments/3c0.jpg",
-    "Продуктивность, GTD и т.д/3c0.jpg",
-    "Продуктивность, GTD и т.д/3c0 1.jpg",
-    "3c0.jpg",
-    "Notion/Attachments/Untitled 1.png",
-    "Notion/Attachments/me_by_nastya_сropped.jpg",
-    "Notion/Attachments/Untitled 37.png",
     "Files/Untitled.canvas"
   ]
 }

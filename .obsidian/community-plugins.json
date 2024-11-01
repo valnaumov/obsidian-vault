@@ -2,5 +2,6 @@
   "nano-bots",
   "whisper",
   "copilot",
-  "telegram-sync"
+  "telegram-sync",
+  "cycle-through-panes"
 ]
